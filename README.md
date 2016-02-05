@@ -1,5 +1,7 @@
 # Unit 0: Programming Basics
 
+## Benno was here for the FIRST time
+
 Lesson plans, activities and assignments for Unit 0 will be posted here!
 ### Lesson plans
 
